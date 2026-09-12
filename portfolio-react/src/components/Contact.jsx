@@ -6,7 +6,7 @@
 // =========================================================
 import { useState } from "react";
 import { portfolioConfig } from "../data/portfolioConfig";
-const API_URL = "http://localhost:5000/api/contact";
+const API_URL = "https://prince-gupta-portfolio-react.onrender.com/api/contact";
 
 const EMPTY_FORM = { name: "", email: "", subject: "", message: "" };
 
