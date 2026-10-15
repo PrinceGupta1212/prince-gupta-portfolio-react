@@ -14,7 +14,7 @@ export const portfolioConfig = {
   email: "PPGG15241@gmail.com", // PLACEHOLDER — apna real email daalo
   linkedin: "https://www.linkedin.com/in/prince-gupta-268a43352/",
   github: "https://github.com/PrinceGupta1212", // PLACEHOLDER — apna GitHub link daalo
-  resume: "/assets/resume/princeresumefinalhaiyeahwalawithgeminiedit.pdf", // resume PDF public/assets/resume/ mein rakho
+  resume: "/assets/resume/princeguptaresume.pdf", // resume PDF public/assets/resume/ mein rakho
 };
 
 // Skills — category ke hisaab se filter hote hain (Skills.jsx mein)
